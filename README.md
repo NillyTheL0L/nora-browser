@@ -1,5 +1,8 @@
 # nora-browser
 an ultra minimalist browser
+## Need
+you need nodejs
+you need electronjs
 ## Startpage
 startpage by https://github.com/rose-pine/startpage tysm!
 ## Screenshots
